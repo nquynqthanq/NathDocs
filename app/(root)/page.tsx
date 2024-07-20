@@ -39,7 +39,7 @@ const Home = async () => {
             />
           </div>
           <ul className="document-ul">
-            {roomDocuments.data.map(({ id, metadata, createAt }: any) => (
+            {roomDocuments.data.map(({ id, metadata, createdAt }: any) => (
               <li key={id} className="document-list-item">
                 <Link
                   href={`/documents/${id}`}
@@ -56,8 +56,7 @@ const Home = async () => {
                   <div className="space-y-1">
                     <p className="line-clamp-1 text-lg">{metadata.title}</p>
                     <p className="text-sm font-light text-blue-100">
-                      {" "}
-                      Create about {dateConverter(createAt)}
+                      Created about {dateConverter(createdAt)}
                     </p>
                   </div>
                 </Link>
