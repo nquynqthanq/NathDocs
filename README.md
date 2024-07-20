@@ -116,15 +116,13 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to view the 
 
 **Nguyen Quoc Thang**
 
-- **Email**: nguyenquoc.thang@example.com
+- **Email**: nguyenqthangwork@gmail.com
 - **Phone**: +84 123 456 789
 - **Current Position**: Student at Information Technology University - VNUHCM
-- **Location**: [Information Technology University - VNUHCM](https://www.google.com/maps/place/Information+Technology+University+VNUHCM)
+- **Location**: [Information Technology University - VNUHCM](https://www.uit.edu.vn)
 
 **Social Media:**
 
-- [LinkedIn](https://www.linkedin.com/in/nguyenquoc-thang/)
-- [Facebook](https://www.facebook.com/nguyenquoc.thang)
-- [Instagram](https://www.instagram.com/nguyenquoc.thang)
-
-<h3 align="center">nquyn.q.thanq</h3>
+- [LinkedIn](https://www.linkedin.com/in/nguyenquocthang/)
+- [Facebook](https://www.facebook.com/nguyn.q.thanq/)
+- [Instagram](https://www.instagram.com/nguyn.q.thanq/)
