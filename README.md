@@ -1,3 +1,4 @@
+
 <div align="center">
   <br />
     <a href="https://youtu.be/y5vE8y_f_OM" target="_blank">
@@ -21,10 +22,11 @@
 2. ⚙️ [Tech Stack](#tech-stack)
 3. 🔋 [Features](#features)
 4. 🤸 [Quick Start](#quick-start)
+5. 👤 [Contact Information](#contact-information)
 
 ## <a name="introduction">🤖 Introduction</a>
 
-Built with Next.js to handle the user interface, Liveblocks for real-time features and styled with TailwindCSS, LiveDocs is a clone of Goole Docs. The primary goal is to demonstrate the developer's skills in realtime enviroment that creates a lasting impact.
+Built with Next.js to handle the user interface, Liveblocks for real-time features and styled with TailwindCSS, LiveDocs is a clone of Google Docs. The primary goal is to demonstrate the developer's skills in a real-time environment that creates a lasting impact.
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
@@ -100,7 +102,7 @@ NEXT_PUBLIC_LIVEBLOCKS_PUBLIC_KEY=
 LIVEBLOCKS_SECRET_KEY=
 ```
 
-Replace the placeholder values with your actual Clerk & LiveBlocks credentials. You can obtain these credentials by signing up on the [Clerk](https://clerk.com/) and [Liveblocks](liveblocks.io/) website.
+Replace the placeholder values with your actual Clerk & LiveBlocks credentials. You can obtain these credentials by signing up on the [Clerk](https://clerk.com/) and [Liveblocks](https://liveblocks.io/) websites.
 
 **Running the Project**
 
@@ -110,7 +112,19 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
 
+## <a name="contact-information">👤 Contact Information</a>
 
+**Nguyen Quoc Thang**
 
+- **Email**: nguyenquoc.thang@example.com
+- **Phone**: +84 123 456 789
+- **Current Position**: Student at Information Technology University - VNUHCM
+- **Location**: [Information Technology University - VNUHCM](https://www.google.com/maps/place/Information+Technology+University+VNUHCM)
+
+**Social Media:**
+
+- [LinkedIn](https://www.linkedin.com/in/nguyenquoc-thang/)
+- [Facebook](https://www.facebook.com/nguyenquoc.thang)
+- [Instagram](https://www.instagram.com/nguyenquoc.thang)
 
 <h3 align="center">nquyn.q.thanq</h3>
