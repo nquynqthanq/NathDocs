@@ -13,7 +13,7 @@ const fontSans = FontSans({
 });
 
 export const Metadata = {
-  title: "LiveDocs",
+  title: "NathDocs",
   description: "You go-to collaborative editor",
 };
 
