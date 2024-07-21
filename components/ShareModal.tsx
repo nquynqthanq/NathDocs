@@ -47,17 +47,17 @@ const ShareModal = ({
     <Dialog open={open} onOpenChange={setOpen}>
       <DialogTrigger>
         <Button
-          className="gradient-blue flex h-9 gap-1 px-4"
+          className="gradient-custom flex h-9 gap-1 px-4"
           disabled={currentUserType !== "editor"}
         >
           <Image
             src="/assets/icons/share.svg"
             alt="share"
-            width={20}
-            height={20}
+            width={26}
+            height={26}
             className="min-w-4 md:size-5"
           />
-          <p className="mr-1 hidden sm:block">Share</p>
+          <p className="mr-1 hidden sm:block font-semibold">Share</p>
         </Button>
       </DialogTrigger>
       <DialogContent className="shad-dialog">
