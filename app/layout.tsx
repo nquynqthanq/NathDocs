@@ -15,6 +15,10 @@ const fontSans = FontSans({
 export const Metadata = {
   title: "NathDocs",
   description: "You go-to collaborative editor",
+  icon: {
+    src: "/favicon.ico",
+    type: "image/x-icon",
+  },
 };
 
 export default function RootLayout({
