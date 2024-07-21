@@ -119,7 +119,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to view the 
 - **Email**: nguyenqthangwork@gmail.com
 - **Phone**: +84 123 456 789
 - **Current Position**: Student at Information Technology University - VNUHCM
-- **Location**: [Information Technology University - VNUHCM](https://www.uit.edu.vn)
+- **Location**: [University of Information Technology - VNUHCM](https://www.uit.edu.vn)
 
 **Social Media:**
 
