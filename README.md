@@ -1,7 +1,7 @@
 
 <div align="center">
   <br />
-    <img src="https://github.com/nguynqthawq/NathDocs/blob/main/public/assets/images/banner.jpg?raw=true" alt="Project Banner">
+    <img src="https://github.com/nguynqthawq/NathDocs/blob/main/public/assets/images/banner.png?raw=true" alt="Project Banner">
   <br />
 
   <div>
